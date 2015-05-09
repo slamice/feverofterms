@@ -15,10 +15,18 @@ Programming Terms:
 *currying*
 *Strong vs. Weakly typed languages*
 *Garbage collector*
+*CRUD*
+
 
 Style Terms:
 
 *CamelCase*
+
+Methodology:
+
+*Scrum*: 
+*TDD*: Test driven development
+
 
 Other:
 
