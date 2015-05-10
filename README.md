@@ -17,6 +17,16 @@ Programming Terms:
 *Garbage collector*
 *CRUD*
 
+*TLD*: Top level domain (e.g. .com, .sexy, .awesome)
+
+
+
+
+
+Startup terms:
+
+*Equity*:
+
 
 Style Terms:
 
