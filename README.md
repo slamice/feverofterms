@@ -37,6 +37,15 @@ Methodology:
 *Scrum*: 
 *TDD*: Test driven development
 
+Domains and certificates:
+
+*SSL (Secure Sockets Layer)*:
+*CA Bundle*:
+- CA: certificate authority
+- Bundle:
+-- its the chain of root x509 certificates that are required to validate certificates that are installed on servers
+-- those root x509 certificates are generate by Certificate Authorities such as TrustE, Verisign etc.
+
 
 Other:
 
